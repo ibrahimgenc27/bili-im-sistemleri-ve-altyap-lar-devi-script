@@ -55,9 +55,12 @@ crontab -l
 
 Kullanılan Cron kuralı:
 ```cron
-* * * * * /home/kullanici/monitor.sh
+* * * * * /bin/bash /home/vboxuser/monitor.sh
 ```
-*(Not: `/home/kullanici/monitor.sh` kısmını scriptin sunucudaki tam yolu ile değiştiriniz.)*
+*(Not: `/home/vboxuser/monitor.sh` kısmı scriptin sunucudaki tam yoludur.)*
+
+## 📸 Ekran Görüntüsü
+Projenin çalışan halinin ekran görüntüsü `screenshot.png` dosyasında mevcuttur.
 
 ## 📝 Ödev Teslim Bilgileri
 - **Ders:** Bilişim Sistemleri Altyapı ve Teknolojileri
