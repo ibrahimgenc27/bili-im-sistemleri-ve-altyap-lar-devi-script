@@ -60,7 +60,9 @@ Kullanılan Cron kuralı:
 *(Not: `/home/vboxuser/monitor.sh` kısmı scriptin sunucudaki tam yoludur.)*
 
 ## 📸 Ekran Görüntüsü
-Projenin çalışan halinin ekran görüntüsü `screenshot.png` dosyasında mevcuttur.
+Aşağıda projenin çalışan halinin ekran görüntüsü yer almaktadır:
+
+![Sunucu Durum Paneli](screenshot.jpg)
 
 ## 📝 Ödev Teslim Bilgileri
 - **Ders:** Bilişim Sistemleri Altyapı ve Teknolojileri
